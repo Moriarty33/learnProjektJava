@@ -1,0 +1,3 @@
+ThreadPool=6
+AccessToken=JEkjbpwY8CQAAAAAAAADJeJ825h_j_1eamY59E8T7HCxDmksL1Ieb9kCEYlcJTNA
+SecondBetweenStatisticWriting=10

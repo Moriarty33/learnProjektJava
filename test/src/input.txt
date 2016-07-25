@@ -1,0 +1,24 @@
+jaki kolor?
+blue
+red
+green
+yellow
+blue
+Co chcesz?
+obiad
+obiad
+kolacke
+chamburger
+frutki
+Co chcesz1?
+jesc
+pic
+rower
+stol
+jesc
+twoje imie?
+bohdan
+igor
+taras
+bohdan
+oleg

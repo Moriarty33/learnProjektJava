@@ -1,0 +1,17 @@
+[Length:  : 500000.ms 
+, ArrayList : 181.ms 
+, LinkedList : 237.ms 
+, HashSet : 2242.ms 
+, LinkedHashSet : 398.ms 
+, TreeSet : 1754.ms 
+, ArrayList : 45224.ms 
+, LinkedList : 23.ms 
+, HashSet : 19.ms 
+, LinkedHashSet : 34.ms 
+, TreeSet : 268.ms 
+, ArrayList : 126.ms 
+, LinkedList : 44.ms 
+, HashSet : 0.ms 
+, LinkedHashSet : 0.ms 
+, TreeSet : 0.ms 
+]
